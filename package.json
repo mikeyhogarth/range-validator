@@ -1,6 +1,6 @@
 {
   "name": "range-validator",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple but configurable range validator for node",
   "main": "index.js",
   "scripts": {
