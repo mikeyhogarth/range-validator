@@ -1,4 +1,5 @@
 var chai = require('chai'),
+    mocha = require('mocha'),
     expect = chai.expect;
 
 var RangeValidator = require('../index');
