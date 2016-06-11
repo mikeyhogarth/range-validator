@@ -7,7 +7,7 @@ function RangeValidator(options) {
     max: 0
   };
   this.options = _.extend(this.defaults, options);
-};
+}
 
 RangeValidator.prototype.validate = function(n) {
   var errors = [];
