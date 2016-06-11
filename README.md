@@ -1,6 +1,9 @@
+[![npm version](https://badge.fury.io/js/range-validator.svg)](https://badge.fury.io/js/range-validator)
 [![Build Status](https://travis-ci.org/mikeyhogarth/range-validator.svg?branch=feature%2Fcontinuous-integration)](https://travis-ci.org/mikeyhogarth/range-validator)
 [![Code Climate](https://codeclimate.com/github/mikeyhogarth/range-validator/badges/gpa.svg)](https://codeclimate.com/github/mikeyhogarth/range-validator)
 [![Test Coverage](https://codeclimate.com/github/mikeyhogarth/range-validator/badges/coverage.svg)](https://codeclimate.com/github/mikeyhogarth/range-validator/coverage)
+[![Issue Count](https://codeclimate.com/github/mikeyhogarth/range-validator/badges/issue_count.svg)](https://codeclimate.com/github/mikeyhogarth/range-validator)
+
 
 Range Validator
 ===============
