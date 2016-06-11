@@ -19,5 +19,4 @@ RangeValidator.prototype.validate = function(n) {
     errors.push('Value exceeds maximum range');
 
   return { valid: _.isEmpty(errors), errors: errors };
-};
-
+}
