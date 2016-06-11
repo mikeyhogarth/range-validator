@@ -8,8 +8,7 @@
 Range Validator
 ===============
 
-Simple function for specifying range validation in node. Currently this is just a little project for me to work on while I'm up feeding the baby at 3am. One day it might be useful.
-
+Simple function for specifying range validation in node. Currently this is just a little project for me to work on while I'm up feeding the baby at 3am. Features will increase in line with sleepless nights. One day it might be useful.
 # Example
 
 ```javascript
