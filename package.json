@@ -1,0 +1,23 @@
+{
+  "name": "range-validator",
+  "version": "1.0.0",
+  "description": "Simple but configurable range validator for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/rangeValidator.js",
+    "test:watch": "npm run test -- -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyhogarth/range-validator.git"
+  },
+  "author": "Mikey Hogarth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeyhogarth/range-validator/issues"
+  },
+  "homepage": "https://github.com/mikeyhogarth/range-validator#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
