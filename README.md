@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/mikeyhogarth/range-validator.svg?branch=feature%2Fcontinuous-integration)](https://travis-ci.org/mikeyhogarth/range-validator)
 [![Code Climate](https://codeclimate.com/github/mikeyhogarth/range-validator/badges/gpa.svg)](https://codeclimate.com/github/mikeyhogarth/range-validator)
+[![Test Coverage](https://codeclimate.com/github/mikeyhogarth/rails-test/badges/coverage.svg)](https://codeclimate.com/github/mikeyhogarth/rails-test/coverage)
 
 Range Validator
 ===============
