@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mikeyhogarth/range-validator.svg?branch=feature%2Fcontinuous-integration)](https://travis-ci.org/mikeyhogarth/range-validator)
+
 Node Range Validator
 ====================
 
