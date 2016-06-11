@@ -14,7 +14,7 @@ rangeValidator.validate(1);
 
 rangeValidator.validate(20);
 // { valid: false, errors: ['value exceeds maximum range']}
-
+```
 # API
 Available options are as follows
 * `min` the minimum a value may be
