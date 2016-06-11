@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/mikeyhogarth/range-validator.svg?branch=feature%2Fcontinuous-integration)](https://travis-ci.org/mikeyhogarth/range-validator)
 
-Node Range Validator
-====================
+Node Range
+==========
 
-Simple function for specifying range validation.
+Simple function for specifying range validation in node. Currently this is just a little project for me to work on while I'm up feeding the baby at 3am. One day it might be useful.
 
 # Example
 
